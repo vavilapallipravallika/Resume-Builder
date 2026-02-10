@@ -28,7 +28,8 @@ Built to simplify resume creation for students and job seekers.
 
 ## 📷 Screenshots
 
-(Add your app screenshots here)
+(![Uploading Screenshot 2026-02-10 222035.png…]()
+)
 
 ---
 
